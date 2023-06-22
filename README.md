@@ -6,6 +6,8 @@
 
 <body>
   <h1>Опис файлів</h1>
+  <h3>Посилання на курс</h3>
+  <strong><a href="https://apps.prometheus.org.ua/learning/course/course-v1:LITS+114+2022_T2/home">https://apps.prometheus.org.ua/</a>
   <h3>Тиждень 1</h3>
 <ul>
     <li><strong><a href="https://mushkettt.github.io/praktika/tyzden1.test.mhtml">(tyzden1.test.mhtml)(потрежує завантаження)</a>:</strong> Прохоження тесту 1.</li>
